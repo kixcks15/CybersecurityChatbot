@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bniOR4Jagx0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Student\\Desktop\\CybersecurityChatot\\CybersecurityChatot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Student\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.23.0\\microsoft.visualstudio.azure.containers.tools.targets.1.23.0.nupkg.sha512"
+  ],
+  "logs": []
+}

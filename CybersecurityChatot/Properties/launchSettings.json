@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "CybersecurityChatot": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
